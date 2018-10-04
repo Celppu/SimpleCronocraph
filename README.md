@@ -1,5 +1,5 @@
 # SimpleCronocraph
-Simple arduino cronograph for air guns
+Simple arduino chronograph for air guns
 
 
 Code is trash but should be easy to modify
